@@ -20,7 +20,7 @@ PMMP cooldown manager
 ```
 
 ## Complete tutorial:
-```
+```php
 if (!CooldownManager::isCooldown($player, "chat")){
     CooldownManager::addCooldown($player, "chat", 3);
 }else{
