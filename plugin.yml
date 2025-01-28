@@ -1,0 +1,7 @@
+name: CooldownManager
+author: Julie
+api: 5.0.0
+version: 1.0.0
+main: julie\cooldownmanager\Main
+description: Cooldown manager for PMMP by "juli3.php" (discord)
+website: https://discord.gg/TqzSRdc5
